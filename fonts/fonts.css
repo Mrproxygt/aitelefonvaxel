@@ -1,0 +1,5 @@
+/* Self-hosted brand font (SF Pro variable). */
+@font-face{font-family:'SF Pro';src:url('/fonts/SF-Pro-var.woff2') format('woff2');font-weight:300 700;font-style:normal;font-display:swap;}
+@font-face{font-family:'SF Pro';src:url('/fonts/SF-Pro-Italic-var.woff2') format('woff2');font-weight:300 700;font-style:italic;font-display:swap;}
+@font-face{font-family:'New York';src:url('/fonts/NewYork-var.woff2') format('woff2');font-weight:400 1000;font-style:normal;font-display:swap;}
+@font-face{font-family:'New York';src:url('/fonts/NewYork-Italic-var.woff2') format('woff2');font-weight:400 1000;font-style:italic;font-display:swap;}
